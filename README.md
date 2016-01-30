@@ -1,6 +1,8 @@
 # RailsAutosizeJquery
 
-Integration of jQuery autosize plugin into Rais asset pipeline
+[![Gem Version](https://badge.fury.io/rb/rails_autosize_jquery.svg)](https://badge.fury.io/rb/rails_autosize_jquery)
+
+Integration of `jQuery autosize` plugin into Rails asset pipeline
 
 ## Installation
 
