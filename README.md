@@ -1,4 +1,4 @@
-# RailsAutosizeJquery
+# jQuery autosize for Rails
 
 [![Gem Version](https://badge.fury.io/rb/rails_autosize_jquery.svg)](https://badge.fury.io/rb/rails_autosize_jquery)
 
