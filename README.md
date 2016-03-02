@@ -9,7 +9,7 @@ Integration of `jQuery autosize` plugin into Rails asset pipeline
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'rails_autosize_jquery'
+gem 'rails_autosize_jquery', github: 'lr-agenceweb/rails_autosize_jquery'
 ```
 
 And then execute:
